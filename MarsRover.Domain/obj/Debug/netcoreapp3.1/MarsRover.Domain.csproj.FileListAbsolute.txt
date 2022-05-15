@@ -1,0 +1,9 @@
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\bin\Debug\netcoreapp3.1\MarsRover.Domain.deps.json
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\bin\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\bin\Debug\netcoreapp3.1\MarsRover.Domain.pdb
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\obj\Debug\netcoreapp3.1\MarsRover.Domain.csprojAssemblyReference.cache
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\obj\Debug\netcoreapp3.1\MarsRover.Domain.AssemblyInfoInputs.cache
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\obj\Debug\netcoreapp3.1\MarsRover.Domain.AssemblyInfo.cs
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\obj\Debug\netcoreapp3.1\MarsRover.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\obj\Debug\netcoreapp3.1\MarsRover.Domain.dll
+C:\Users\Coskun\Desktop\MarsRover\MarsRover\MarsRover.Domain\obj\Debug\netcoreapp3.1\MarsRover.Domain.pdb
